@@ -1,0 +1,11 @@
+# Optional extras for P1 features (MCP server, framework comparison).
+# Install with: python -m pip install -r requirements-optional.txt
+mcp>=1.0
+langgraph>=0.2
+
+# Real RAG stack (local ONNX embedding + pgvector)
+onnxruntime>=1.17
+transformers>=4.40
+sentence-transformers>=3.0
+psycopg[binary]>=3.1
+pgvector>=0.3

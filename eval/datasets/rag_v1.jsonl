@@ -1,0 +1,11 @@
+{"query":"订单怎么申请退款","expected_doc":"sop-refund"}
+{"query":"已经退过款还能再退吗","expected_doc":"sop-refund"}
+{"query":"能不能修改收货地址","expected_doc":"sop-address"}
+{"query":"改地址有什么限制条件","expected_doc":"sop-address"}
+{"query":"普通用户可以直接退款吗","expected_doc":"sop-permission"}
+{"query":"写操作需要人工确认吗","expected_doc":"sop-permission"}
+{"query":"怎么查询物流和催发货","expected_doc":"sop-logistics"}
+{"query":"如何申请开发票","expected_doc":"sop-invoice"}
+{"query":"订单可以取消吗","expected_doc":"sop-cancel"}
+{"query":"什么情况下需要转人工客服","expected_doc":"sop-escalation"}
+{"query":"标准工单处理流程是什么","expected_doc":"sop-workflow"}

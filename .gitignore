@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+/data/
+baseline_report.json
+baseline_judge.json
+baseline_hard.json
+baseline_data.json
+baseline_research.json
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
